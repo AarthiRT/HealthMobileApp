@@ -1,2 +1,2 @@
-var healthStatusApp = angular.module("healthStatusApp", [ "chart.js" ])
+var weightStatusApp = angular.module("weightStatusApp", [ "chart.js" ])
 
